@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url('./BG.jpg'); /* Replace with your image path */
+    background-image: url('./ext/BG.jpg'); /* Replace with your image path */
     background-size: cover;                 /* Scale image to cover entire background */
     background-repeat: no-repeat;           /* Prevent tiling */
     background-position: center center;     /* Center the image */
@@ -258,4 +258,5 @@ h1 {
     width:100%;
     font-weight: bold;
 }
+
 
