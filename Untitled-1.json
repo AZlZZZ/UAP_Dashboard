@@ -1,0 +1,47 @@
+[
+    {
+        "id": "1",
+        "name": "flex1",
+        "uap": "zone1",
+        "qte": 500,
+        "cadence": 600,
+        "color": "orange",
+        "defaut": 20
+    },
+    {
+        "id": "2",
+        "name": "flex2",
+        "uap": "zone1",
+        "qte": 500,
+        "cadence": 600,
+        "color": "orange",
+        "defaut": 20
+    },
+    {
+        "id": "3",
+        "name": "flex3",
+        "uap": "zone1",
+        "qte": 500,
+        "cadence": 600,
+        "color": "orange",
+        "defaut": 20
+    },
+    {
+        "id": "4",
+        "name": "cm3/cm4 ligne1",
+        "uap": "zone2",
+        "qte": 200,
+        "cadence": 600,
+        "color": "red",
+        "defaut": 20
+    },
+    {
+        "id": "5",
+        "name": "cm3/cm4 ligne2",
+        "uap": "zone2",
+        "qte": 700,
+        "cadence": 600,
+        "color": "verte",
+        "defaut": 20
+    }
+]
